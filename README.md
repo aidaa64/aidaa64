@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aidaa64
-- 👀 I’m interested in Cyber Security, Wep application pentest, Bug-bounty
+- 👀 I’m interested in Cyber Security,Blue team, Bug-bounty
 - 🌱 I’m currently learning all about ethical hacking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
